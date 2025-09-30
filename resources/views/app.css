@@ -1,0 +1,20 @@
+   body{
+            background-color:black;
+            color:white;
+        }
+        .container{
+            border:1px solid white;
+            height:100%;
+            padding:20px;
+            display:flex;
+            justify-content:bet;
+        }
+        #search-field{
+            color:white;
+                      
+        }
+        .search-outputs{
+            width:100px;
+            height:200px;
+            border:1px solid white;
+        }
